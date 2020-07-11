@@ -1,23 +1,13 @@
 body {
-
-color: green;
-font-family: Verdana, Arial, Geneva, Arial Black;
-font-weight: normal;
+  color: green;
+  font-family: Verdana, Arial, Geneva, Arial Black;
+  font-weight: normal;
 }
 
 h1, h2 {
-
-border-bottom: 1px solid black'
-
-}
-
-.blue {
-font-size: 25px;
-
+  border-bottom: 1px solid black;
 }
 
 .underline {
-
-text-decoration: underline;
-
+  text-decoration: underline;
 }
